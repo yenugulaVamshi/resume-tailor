@@ -1,0 +1,7 @@
+streamlit
+python-docx
+pdfplumber
+PyMuPDF
+docx2txt
+google-generativeai
+python-dotenv
